@@ -1,0 +1,40 @@
+body{
+	background: aqua;
+}
+.button {
+	padding: 10px 100px;
+	font-size: 1.2em;
+	cursor: pointer;
+	background-color: #007BFF;
+	color: white;
+	border: none;
+	border-radius: 5px;
+}
+.button:hover {
+	background-color: #0056b3;
+}
+.counter {
+	font-size: 2em;
+	margin-bottom: 50px;
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+.message {
+	color: red;
+	font-size: 1em;
+	margin-top: 10px;
+}
+#tapButton{
+	padding: 10px 100px;
+	font-size: 1.2em;
+	cursor: pointer;
+	background-color: #007BFF;
+	color: white;
+	border: none;
+	border-radius: 5px;
+}
+#tapButton:hover {
+	background-color: #0056b3;
+}
